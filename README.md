@@ -1,2 +1,4 @@
 # Ecommerce-Website
 Introducing our eCommerce Mobile App built with PHP and powered by a MySQL backend. This mobile application provides a seamless shopping experience for users on the go. PHP handles the dynamic aspects of the app, enabling users to browse products, add items to their cart, and complete secure transactions. MySQL serves as the reliable data storage solution, storing product information, user profiles, and transaction records. With user-friendly interfaces and responsive design, our eCommerce mobile app ensures a smooth shopping journey for customers. Setting up this eCommerce solution is straightforward, as detailed in our installation guide, allowing businesses to quickly establish their online presence and start selling products to a mobile audience
+
+C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot_20230906_110433.png
